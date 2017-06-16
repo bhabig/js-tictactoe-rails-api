@@ -1,12 +1,18 @@
-tags:
+--- 
+frameworks: 
+  - rails
+languages: 
+  - javascript
+  - js
+libraries: 
+  - jquery
+project: 
+  review_criteria: 
+    - "All tests pass"
+    - "Handles persistence"
+resources: 1
+tags: 
   - selectors
   - jquery
-languages:
-  - JavaScript
-  - js
-  - rails
-resources: 1
-project:
-  review_criteria:
-   - All tests pass
-   - Handles persistence
+  - "single-page application"
+  - "rails api"
